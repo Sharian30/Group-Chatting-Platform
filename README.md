@@ -1,7 +1,6 @@
-# java-group-chat
-this app need to open port 5000 to java socket for server only
-
-------------------------------
-My youtube : https://www.youtube.com/watch?v=QfUREEp0kRk
-<br/><br/>
-![2021-06-21_204422](https://user-images.githubusercontent.com/58245926/122772372-810c5900-d2d1-11eb-83cf-c85a5dd74d94.png)
+A group chatting platform is where multiple users can join a group and send texts, images, and emojis.
+First of all, run the Server (Main class of Server).
+You may see two options 1. Start the server and 2. Stop the server.
+Simply, press the Start server. Now the server is in listening mode (it waiting for clients).
+Go to the Client part and run the login class in terms of each client joining. 
+Now, Insert your photo by double click on the photo (optional) and valid name.
